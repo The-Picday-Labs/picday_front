@@ -31,7 +31,6 @@
 ![이미지](이미지URL입력)
 
 ## 📰 서비스 목표
-
 ![화면예시](이미지URL입력)
 
 - 위에 이미지와 같은 다이어리 서비스를 제공하는 페이지의 개발
@@ -39,5 +38,8 @@
 
 
 ## 🔔 컨벤션 규칙
-
 [자세한 내용은 Wiki 참조](https://github.com/The-Picday-Labs/picday_front/wiki/%ED%8C%80-%EC%BB%A8%EB%B2%A4%EC%85%98)
+
+
+## 📈 브랜치 정보
+[자세한 내용은 Wiki 참조](https://github.com/The-Picday-Labs/picday_front/wiki/%EB%B8%8C%EB%9E%9C%EC%B9%98-%EC%A0%95%EB%B3%B4)
