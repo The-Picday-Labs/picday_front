@@ -40,4 +40,4 @@
 
 ## 🔔 컨벤션 규칙
 
-[자세한 내용은 Wiki 참조](https://github.com/----팀-깃허브-내의-위키-주소를입력----)
+[자세한 내용은 Wiki 참조](https://github.com/The-Picday-Labs/picday_front/wiki/%ED%8C%80-%EC%BB%A8%EB%B2%A4%EC%85%98)
