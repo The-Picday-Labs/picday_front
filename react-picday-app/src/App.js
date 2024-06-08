@@ -11,9 +11,9 @@ import './App.css';
 
 
 // Pages---------
-import JoinPage from  './pages/JoinPage';
-import LoginPage from  './pages/LoginPage';
-import MainPage from   './pages/MainPage';
+import JoinPage from  './pages/JoinPage_';
+import LoginPage from  './pages/LoginPage_';
+import MainPage from   './pages/MainPage_';
 import { Outlet, Route, Routes } from 'react-router-dom';
 
 
